@@ -20,43 +20,6 @@ Transformar dados brutos em **insights estratégicos** sobre o Brasileirão, ana
 - Influência do primeiro tempo no resultado final
 - Evolução do público e do estilo de jogo
 
----
-
-## Tecnologias Utilizadas
-
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Power BI
-- Jupyter Notebook
-
----
-
-## Etapas do Projeto
-
-### 1. Coleta e preparação dos dados
-- Leitura do dataset (`CSV`)
-- Tratamento de valores nulos e inconsistências
-- Criação de variáveis derivadas (feature engineering)
-
-### 2. Feature Engineering
-Foram criadas variáveis como:
-
-- `resultado` → vencedor da partida  
-- `total_gols` → intensidade ofensiva  
-- `vitoria_mandante` → variável binária  
-- `pressao_mandante` → volume ofensivo  
-- `eficiencia_mandante` e `visitante`  
-- `ganhou_1t` → desempenho no primeiro tempo  
-
-### 3. Análise Exploratória (EDA)
-- Distribuição de resultados
-- Média de gols por temporada
-- Evolução do público
-- Relação entre chutes e gols
-- Comparações entre mandante vs visitante
-
-### 4. Visualização
-- Gráficos em Python
-- Dashboard interativo no Power BI
 
 ---
 
@@ -109,3 +72,12 @@ Foram criadas variáveis como:
 - 2003–2005: futebol mais ofensivo
 - 2006–2018: consolidação defensiva
 - 2019–atual: retomada ofensiva
+
+  ---
+
+## Tecnologias Utilizadas
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI
+- Jupyter Notebook
+
