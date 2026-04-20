@@ -3,8 +3,10 @@
 Projeto de análise de dados do Campeonato Brasileiro utilizando **Python + Power BI**, com foco em extrair insights sobre desempenho das equipes, padrões de jogo e tendências ao longo das temporadas.
 
 ---
-
-![Dashboard](./dashboard.png)
+![Dashboard](/img/Capa.jpg)
+![Dashboard](/img/Tela1.jpg)
+![Dashboard](/img/Tela2.jpg)
+![Dashboard](/img/Tela3.jpg)
 
 ---
 
