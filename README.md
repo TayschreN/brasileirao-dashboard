@@ -1,4 +1,4 @@
-# ⚽ Brasileirão - Análise de Dados
+# Brasileirão - Análise de Dados
 
 Projeto de análise de dados do Campeonato Brasileiro utilizando **Python + Power BI**, com foco em extrair insights sobre desempenho das equipes, padrões de jogo e tendências ao longo das temporadas.
 
